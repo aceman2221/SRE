@@ -1,7 +1,7 @@
 import subprocess
 import re
 import binascii
-
+#Assuming this script is run in the same direcory as the binary
 program_path = "modern2.exe"
 
 
