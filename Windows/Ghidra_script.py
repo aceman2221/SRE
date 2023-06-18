@@ -2,7 +2,7 @@ import os
 from ghidra.app.decompiler import DecompInterface
 
 # Set the path to the output directory
-output_directory = "" 
+output_directory =  r"C:\Users\reverser\Desktop\modern3\extracted_functions"
 
 # Create the output directory if it doesn't exist
 if not os.path.exists(output_directory):
