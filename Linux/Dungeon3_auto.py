@@ -1,3 +1,4 @@
+#run with python3
 from pwn import *
 import time
 
